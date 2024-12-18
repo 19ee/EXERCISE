@@ -1,0 +1,1 @@
+Type of price in object at position 5 is incorrect and should be 'number'. Received 'string'
